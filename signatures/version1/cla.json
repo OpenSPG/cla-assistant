@@ -1,3 +1,36 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "baifuyu",
+      "id": 147798664,
+      "comment_id": 1893427716,
+      "created_at": "2024-01-16T10:06:11Z",
+      "repoId": 708783006,
+      "pullRequestNo": 95
+    },
+    {
+      "name": "baifuyu",
+      "id": 147798664,
+      "comment_id": 1893428378,
+      "created_at": "2024-01-16T10:06:34Z",
+      "repoId": 708783006,
+      "pullRequestNo": 95
+    },
+    {
+      "name": "baifuyu",
+      "id": 147798664,
+      "comment_id": 1893495298,
+      "created_at": "2024-01-16T10:46:31Z",
+      "repoId": 708783006,
+      "pullRequestNo": 95
+    },
+    {
+      "name": "baifuyu",
+      "id": 147798664,
+      "comment_id": 1893509249,
+      "created_at": "2024-01-16T10:55:27Z",
+      "repoId": 708783006,
+      "pullRequestNo": 95
+    }
+  ]
 }
